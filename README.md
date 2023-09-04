@@ -1,2 +1,3 @@
-# shopify
-Ecommerce website using python and django 
+# Shopify
+E-commerce Website with Python and Django
+
